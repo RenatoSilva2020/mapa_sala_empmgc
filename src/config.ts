@@ -25,7 +25,7 @@ export function buildApiUrl(baseApiUrl: string, spreadsheetId?: string): string 
 
 export const DEFAULT_CONFIG: AppConfig = {
   apiUrl: "https://script.google.com/macros/s/AKfycbx697CrCBhHUkG-ajC6DywPr9bkfkbm84oiLbCE0dWvUj3Twy4gHqEYjkkJcHON-2lqWQ/exec",
-  logoUrl: "https://i.ibb.co/4nDkF8SW/e-EMPMGC.png",
+  logoUrl: "https://i.ibb.co/QwJbGJ9/e-EMPMGC.png",
   spreadsheetId: "1SnCQIs3-oXj0LgiJ5LDY98ylgPOfEVOcBHa0qPe0CdM",
   defaultClassId: "1° REG 02 (SEDE)"
 };
